@@ -1,0 +1,18 @@
+- draw.io - to create wireframes
+
+- https://disease.sh/ - api
+
+- flex: 0.9;
+
+- .table tr:nth-of-type(odd)
+
+- react-chartjs-2
+
+- react-leaflet, leaflet - for maps
+- causion - read code before using react-leaflet
+
+- .infoBox:not(:last-child)
+
+- numeral - package to format the numbers
+  
+  
